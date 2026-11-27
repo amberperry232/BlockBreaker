@@ -1,0 +1,1482 @@
+fileFormatVersion: 2
+guid: 0bd2e3ba268406a41a141d79eaedcff6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6436194679782145604
+    second: paddle_0
+  - first:
+      213: -4622617378375830069
+    second: paddle_1
+  - first:
+      213: 967051718912557282
+    second: paddle_2
+  - first:
+      213: -7660695026817293762
+    second: paddle_3
+  - first:
+      213: 1604733581117915728
+    second: paddle_4
+  - first:
+      213: 3990056835407640581
+    second: paddle_5
+  - first:
+      213: -2105380137936760994
+    second: paddle_6
+  - first:
+      213: -2109776898846085330
+    second: paddle_7
+  - first:
+      213: 6981372949281735647
+    second: paddle_8
+  - first:
+      213: 8810203523934243457
+    second: paddle_9
+  - first:
+      213: 7541070857733594120
+    second: paddle_10
+  - first:
+      213: -5466118907489888872
+    second: paddle_11
+  - first:
+      213: -6511184265357196949
+    second: paddle_12
+  - first:
+      213: -7021142003813267361
+    second: paddle_13
+  - first:
+      213: -6655752579026741006
+    second: paddle_14
+  - first:
+      213: -3735593652452645111
+    second: paddle_15
+  - first:
+      213: 4376366820877494899
+    second: paddle_16
+  - first:
+      213: -3742140104923063976
+    second: paddle_17
+  - first:
+      213: -2693694344605784347
+    second: paddle_18
+  - first:
+      213: 6750513154788650964
+    second: paddle_19
+  - first:
+      213: 1415399434257698779
+    second: paddle_20
+  - first:
+      213: 7483557163220491541
+    second: paddle_21
+  - first:
+      213: -4268259286114111323
+    second: paddle_22
+  - first:
+      213: -8794133578353262684
+    second: paddle_23
+  - first:
+      213: 479578827505183502
+    second: paddle_24
+  - first:
+      213: -5069670075322420342
+    second: paddle_25
+  - first:
+      213: 2667607164605077069
+    second: paddle_26
+  - first:
+      213: 3988260764386046069
+    second: paddle_27
+  - first:
+      213: 1773289386574127628
+    second: paddle_28
+  - first:
+      213: 5835199965429873556
+    second: paddle_29
+  - first:
+      213: 5789129814359656299
+    second: paddle_30
+  - first:
+      213: -5298817664074366912
+    second: paddle_31
+  - first:
+      213: 9184496703177872009
+    second: paddle_32
+  - first:
+      213: 3326539393649679816
+    second: paddle_33
+  - first:
+      213: 9016998813665052807
+    second: paddle_34
+  - first:
+      213: 5709029680736931815
+    second: paddle_35
+  - first:
+      213: -8539503765575298643
+    second: paddle_36
+  - first:
+      213: -8122005435126305695
+    second: paddle_37
+  - first:
+      213: -2549722692393194200
+    second: paddle_38
+  - first:
+      213: 553291492551529674
+    second: paddle_39
+  - first:
+      213: -3070885585720015915
+    second: paddle_40
+  - first:
+      213: -5028356783381793733
+    second: paddle_41
+  - first:
+      213: -746701885162314464
+    second: paddle_42
+  - first:
+      213: -414242900726634244
+    second: paddle_43
+  - first:
+      213: -5440650008945892130
+    second: paddle_44
+  - first:
+      213: 4503379323073978569
+    second: paddle_45
+  - first:
+      213: -4512915943039332738
+    second: paddle_46
+  - first:
+      213: -8278304156583118038
+    second: paddle_47
+  - first:
+      213: 315401946960619484
+    second: paddle_48
+  - first:
+      213: 3791658191739149759
+    second: paddle_49
+  - first:
+      213: 988308125195324878
+    second: paddle_50
+  - first:
+      213: -8139628860529777337
+    second: paddle_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: paddle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 743
+        width: 316
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e7ca9f5f4f15950800000000000000
+      internalID: 6436194679782145604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 765
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc57c5d6cf929dfb0800000000000000
+      internalID: -4622617378375830069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 688
+        width: 137
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0c6392a68ab6d00800000000000000
+      internalID: 967051718912557282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_3
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 775
+        width: 111
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3224f1167ebfa590800000000000000
+      internalID: -7660695026817293762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_4
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 807
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0528ca590b8254610800000000000000
+      internalID: 1604733581117915728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_5
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 803
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50877143d878f5730800000000000000
+      internalID: 3990056835407640581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_6
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 660
+        width: 324
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fcd195bef28c2e0800000000000000
+      internalID: -2105380137936760994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 789
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f24fca61198b2e0800000000000000
+      internalID: -2109776898846085330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 789
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3857e55b1d2e060800000000000000
+      internalID: 6981372949281735647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 692
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18acef23d61244a70800000000000000
+      internalID: 8810203523934243457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_10
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 773
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cd245adf347a860800000000000000
+      internalID: 7541070857733594120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_11
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 773
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895d40b70d17424b0800000000000000
+      internalID: -5466118907489888872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_12
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 667
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61854c8860a3a5a0800000000000000
+      internalID: -6511184265357196949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_13
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 680
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58c2211c84ef8e90800000000000000
+      internalID: -7021142003813267361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_14
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 732
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f898360b4402a3a0800000000000000
+      internalID: -6655752579026741006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_15
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 666
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9072b587d51882cc0800000000000000
+      internalID: -3735593652452645111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_16
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 678
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a6535cf6afbbc30800000000000000
+      internalID: 4376366820877494899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_17
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 694
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859515ab66f311cc0800000000000000
+      internalID: -3742140104923063976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_18
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 741
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e62b40f3431e9ad0800000000000000
+      internalID: -2693694344605784347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_19
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 711
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df67c2d2f3aead50800000000000000
+      internalID: 6750513154788650964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_20
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 715
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf083e494284a310800000000000000
+      internalID: 1415399434257698779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_21
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 656
+        width: 158
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d5612279fead760800000000000000
+      internalID: 7483557163220491541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_22
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 739
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0f7e12bc814c4c0800000000000000
+      internalID: -4268259286114111323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_23
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 684
+        width: 94
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af3be29a16f4f580800000000000000
+      internalID: -8794133578353262684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_24
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 706
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bae37176ec7a600800000000000000
+      internalID: 479578827505183502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_25
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 721
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83baff3de9e4a9b0800000000000000
+      internalID: -5069670075322420342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_26
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 713
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d469296259e350520800000000000000
+      internalID: 2667607164605077069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_27
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 684
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570bbd4d806295730800000000000000
+      internalID: 3988260764386046069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_28
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 725
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02a8b24d4dfb9810800000000000000
+      internalID: 1773289386574127628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_29
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 692
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bb1dcc37bcaf050800000000000000
+      internalID: 5835199965429873556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_30
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 709
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67c78fd4ee175050800000000000000
+      internalID: 5789129814359656299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_31
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 697
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040484ba861d676b0800000000000000
+      internalID: -5298817664074366912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_32
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 692
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982d9a90713e57f70800000000000000
+      internalID: 9184496703177872009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_33
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 694
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd15d924fd3a2e20800000000000000
+      internalID: 3326539393649679816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_34
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 694
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788cf9c95a0d22d70800000000000000
+      internalID: 9016998813665052807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef8c743f3c8a3f40800000000000000
+      internalID: 5709029680736931815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 1766
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da116c6c1969d7980800000000000000
+      internalID: -8539503765575298643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c2187c617d84f80800000000000000
+      internalID: -8122005435126305695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_38
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 101
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82da62468b09d9cd0800000000000000
+      internalID: -2549722692393194200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_39
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 80
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac497c65eafada700800000000000000
+      internalID: 553291492551529674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_40
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 162
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d38a4d74d50265d0800000000000000
+      internalID: -3070885585720015915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_41
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 144
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b343a9a9520b73ab0800000000000000
+      internalID: -5028356783381793733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_42
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 144
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02529c5779e23a5f0800000000000000
+      internalID: -746701885162314464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_43
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 192
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8267bc640504af0800000000000000
+      internalID: -414242900726634244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_44
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 211
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4ed8584adee74b0800000000000000
+      internalID: -5440650008945892130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_45
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 176
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0e9a862a73f7e30800000000000000
+      internalID: 4503379323073978569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_46
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 174
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e81f93cd6ee51c0800000000000000
+      internalID: -4512915943039332738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_47
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 130
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b393cda3e8d1d80800000000000000
+      internalID: -8278304156583118038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_48
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 128
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7ed025668806400800000000000000
+      internalID: 315401946960619484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_49
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbddf4c490dae9430800000000000000
+      internalID: 3791658191739149759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_50
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 88
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd46eae00d27bd00800000000000000
+      internalID: 988308125195324878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paddle_51
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 74
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745ea9c4daa3a0f80800000000000000
+      internalID: -8139628860529777337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      paddle_0: 6436194679782145604
+      paddle_1: -4622617378375830069
+      paddle_10: 7541070857733594120
+      paddle_11: -5466118907489888872
+      paddle_12: -6511184265357196949
+      paddle_13: -7021142003813267361
+      paddle_14: -6655752579026741006
+      paddle_15: -3735593652452645111
+      paddle_16: 4376366820877494899
+      paddle_17: -3742140104923063976
+      paddle_18: -2693694344605784347
+      paddle_19: 6750513154788650964
+      paddle_2: 967051718912557282
+      paddle_20: 1415399434257698779
+      paddle_21: 7483557163220491541
+      paddle_22: -4268259286114111323
+      paddle_23: -8794133578353262684
+      paddle_24: 479578827505183502
+      paddle_25: -5069670075322420342
+      paddle_26: 2667607164605077069
+      paddle_27: 3988260764386046069
+      paddle_28: 1773289386574127628
+      paddle_29: 5835199965429873556
+      paddle_3: -7660695026817293762
+      paddle_30: 5789129814359656299
+      paddle_31: -5298817664074366912
+      paddle_32: 9184496703177872009
+      paddle_33: 3326539393649679816
+      paddle_34: 9016998813665052807
+      paddle_35: 5709029680736931815
+      paddle_36: -8539503765575298643
+      paddle_37: -8122005435126305695
+      paddle_38: -2549722692393194200
+      paddle_39: 553291492551529674
+      paddle_4: 1604733581117915728
+      paddle_40: -3070885585720015915
+      paddle_41: -5028356783381793733
+      paddle_42: -746701885162314464
+      paddle_43: -414242900726634244
+      paddle_44: -5440650008945892130
+      paddle_45: 4503379323073978569
+      paddle_46: -4512915943039332738
+      paddle_47: -8278304156583118038
+      paddle_48: 315401946960619484
+      paddle_49: 3791658191739149759
+      paddle_5: 3990056835407640581
+      paddle_50: 988308125195324878
+      paddle_51: -8139628860529777337
+      paddle_6: -2105380137936760994
+      paddle_7: -2109776898846085330
+      paddle_8: 6981372949281735647
+      paddle_9: 8810203523934243457
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
